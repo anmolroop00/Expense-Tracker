@@ -6,8 +6,8 @@ from datetime import datetime, timedelta
 import calendar
 
 # ========== USER CONFIGURATION ==========
-username = "anmol.roop00@gmail.com"
-password = "awvj cqqa plbh sedj"  # Use an App Password if 2FA is enabled
+username = ""
+password = ""  # Use an App Password if 2FA is enabled
 imap_server = "imap.gmail.com"
 # =========================================
 
