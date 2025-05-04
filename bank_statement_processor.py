@@ -606,8 +606,8 @@ class BankStatementProcessor:
 def schedule_and_run_job():
     """Set up the scheduler and run the job periodically."""
     # Replace these with your actual email credentials
-    email_address = "anmol.roop00@gmail.com"
-    password = "awvj cqqa plbh sedj"  # Use environment variables in production
+    email_address = ""
+    password = ""  # Use environment variables in production
     imap_server = "imap.gmail.com"  # e.g., imap.gmail.com for Gmail
     
     processor = BankStatementProcessor(email_address, password, imap_server)
