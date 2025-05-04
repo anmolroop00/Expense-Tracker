@@ -5,8 +5,8 @@ from email.header import decode_header
 import webbrowser
 import os
 
-username = "anmol.roop00@gmail.com"
-password = "awvj cqqa plbh sedj"
+username = ""
+password = ""
 
 imap_server = "imap.gmail.com"
 
